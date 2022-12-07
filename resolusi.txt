@@ -5,3 +5,4 @@ WPU Resolusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
 - Our Product
+- Tournament Page
